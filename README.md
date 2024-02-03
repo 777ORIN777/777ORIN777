@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Orin Akter Sriti</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<img srec="Beige and White Modern LinkedIn Background Photo.png" alt="">
 <h3> Hello, I'm Orin Akter Sriti. I'm a professional web Designer. I have over 1+ years of experience in web and landing page design and also development. Every project I take, I do always with full responsibility and always ahead of schedule. I trust my skills and honesty. Thank you!😊 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=777orin777&label=Profile%20views&color=0e75b6&style=flat" alt="777orin777" /> </p>
 
