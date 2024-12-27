@@ -3,7 +3,7 @@
 <h3> Hello, I'm Orin Akter Sriti. I'm a professional web Designer. I have over 1+ years of experience in web and landing page design and also development. Every project I take, I do always with full responsibility and always ahead of schedule. I trust my skills and honesty. Thank you!😊 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=777orin777&label=Profile%20views&color=0e75b6&style=flat" alt="777orin777" /> </p>
 
-- 🔭 I’m currently working on **HS Web Soft & Fiverr**
+- 🔭 I’m currently working on **Olive 71 & Fiverr**
 
 - 🌱 I’m currently learning **PHP & MYSQl**
 
